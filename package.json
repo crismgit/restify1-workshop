@@ -1,0 +1,21 @@
+{
+  "name": "restify-workshop",
+  "version": "1.0.0",
+  "description": "Workshop restify FrontEndSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "Cris",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "restify": "^7.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
